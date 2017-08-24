@@ -9,9 +9,9 @@ public class pr_Array04 {
 
 		Scanner sc = new Scanner (System.in);
 		int a = sc.nextInt();
-		System.out.print("±Ý¾× : "+a);
+		System.out.print("ï¿½Ý¾ï¿½ : "+a);
 	
-		
+		sc.close();
 	}
 
 }

@@ -16,6 +16,7 @@ public class pr_Array02 {
 			sum += in;
 		}
 		System.out.println("평균은 " + sum / (double) scoreArray.length + " 입니다. ");
+		System.out.println(" ");
 		sc.close();
 	}
 
